@@ -1,0 +1,120 @@
+================================================================
+
+To see the table: please open the doc file
+
+
+I've sent the assignment via emails but I missed Friday's class so I didn't know about the GitHub repository
+till I asked about it so here it is now.
+================================================================
+
+Hello, here's the final project goals you requested in class
+
+
+
+Project Goals:
+
+ 
+
+Type 1:
+
+Initially, the game that I wanted to make for this class would be something akin to the game Resident Evil(s) 4, 5, and 6. It is a third person shooter that mainly focuses on story, but the mechanics of the game is straightforward. Controls include directional movement, aiming, shooting and certain ways of pressing buttons -- or a combination of -- to perform melee combat actions and/or  traverse obstacles.
+
+ 
+
+Level wise, the path is majorly linear, depending on the current "puzzle" the player is trying to solve, and are usually set inside dark-ambient and/or intimidating structures.
+
+ 
+
+This is also not a first person shooter, so it more or less depends.
+
+ 
+
+Type 2:
+
+For a more moderate and conventional approach, I decided to make a hunting game for various fictional monsters.
+
+ 
+
+The player is always spawned at his "home base" where he is given options to switch weapons and resupply his equipment. As he ventures out further and further, he is given hints (such as footprints or tracks) to follow a monster he decides to hunt. There are various monsters all differing in difficulty, weaknesses, and the type of weapon you might need to take it down.
+
+ 
+
+Monsters that are taken down can be used as a trophy or to unlock new weapons and equipment, but the overall objective of the game is to hunt down the most powerful monster alive, which can be randomly spawned at the programmer's discretion.
+
+ 
+
+Type 3:
+
+Being unfamiliar with using Unity software and the amount of material we would be covering in this class, my fallback game would be summarized as a first person Modern mech or tank game. The game view would be in a HUD, where a player can move freely in the ground and equipped with an array of weapons at the player's disposal.
+
+ 
+
+The battlefield would be in an open field littered with "wall" type objects to obstruct movement and vision, but the overall game is very simplistic in terms of mechanics and design (which is a pretty much a move, shoot, and don't die kind of game). Think World of Tanks.
+
+ 
+
+Overall, my checklist would be something like this to decide which game I want to make.
+
+Game
+
+Working with Other Member(s)
+
+Adequate Information
+
+Low load on other courses
+
+3rd Person Allowed
+
+Type1
+
+X
+
+X
+
+X
+
+X
+
+Type2
+
+X
+
+X
+
+X
+
+ 
+
+Type3
+
+ 
+
+X
+
+ 
+
+ 
+
+Type 2 (Simpler)
+
+ 
+
+X
+
+X
+
+ 
+
+ 
+
+Of course, it still does not guarantee a "best game ever" kind of feel, but more like a prototype approach.
+
+
+
+
+
+Cheers,
+
+Niccolo Jacinto
+
+N01068209
