@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class FirstScript : MonoBehaviour {
+public class PlayerShoot : MonoBehaviour {
 
     public float speed = 20;
     public Rigidbody projectile;
@@ -19,7 +19,7 @@ public class FirstScript : MonoBehaviour {
             instantiateProjectile.velocity = transform.TransformDirection(new Vector3(0, 0, speed));
 
 
-            Debug.Log("Firing");
+           // Debug.Log("Firing");
 
         }
 
